@@ -1,0 +1,28 @@
+{
+  "name": "chapa-nodejs-sdk",
+  "version": "1.0.0",
+  "description": "Chapa nodejs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solaget/chapa-nodejs-sdk.git"
+  },
+  "keywords": [
+    "chapa",
+    "payment",
+    "chapa-nodejs",
+    "chapa-typescript"
+  ],
+  "author": "Solomon getnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solaget/chapa-nodejs-sdk/issues"
+  },
+  "homepage": "https://github.com/Solaget/chapa-nodejs-sdk#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
